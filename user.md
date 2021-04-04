@@ -126,7 +126,7 @@ Additionally, [this]( "submission") is a link to my entire submission, and [this
 
 In case you haven't had enough of my fantastic solution to the programming assignment, check out this collage I made with the filters I created.
 
-![My collage](/fantastic.jpg "Nada's collage")
+![My collage](/fantastic2.jpg "Nada's collage")
 
 | table col      | table row    |
 | -------------- | ------------ |
