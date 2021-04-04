@@ -1,7 +1,7 @@
 # Nada Galal
 ## B.S. Computer Science student at UCSD
-### ngalal@ucsd.edu
 ### Click [here](https://drive.google.com/file/d/1tbphR8kmyYPuSg8CLP7bACFbI2jLU9XA/view?usp=sharing "Nada's resume") for my resume.
+#### ngalal@ucsd.edu
 
 Hello! My name is Nada. I'm a class of 2023 student at UCSD majoring in computer science and minoring in design and business. I'm currently also a computer science tutor in the computer science department, a middle school mentor with an organization called [CovEd](coved.org "CovEd website"), and a publicity, social media, and monthly newsletter intern at the [Diversity, Equity, and Inclusion community](https://cse.ucsd.edu/diversity_equity_inclusion "DEI community website") in the UCSD computer science department.
 
