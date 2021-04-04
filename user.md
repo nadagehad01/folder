@@ -1,6 +1,5 @@
 # Nada Galal
-## B.S. Computer Science student at UCSD
-## Computer Science Tutor at UCSD
+## B.S. Computer Science student at UCSD  Computer Science Tutor at UCSD
 ### E-mail: ngalal@ucsd.edu
 #### Current location: Alexandria, Egypt
 ##### Heading 5
