@@ -25,22 +25,108 @@ I have a great passion for teaching. I was an elementary school tutor when I was
 1. Speaking Arabic, English, and some French
 
 
+A staff member who graded a programming assignment of mine in my first programming class (CSE 8A) commented
+> If you explain more on how you achieve vibrance I would have given you the star point :) I think you did something really cool here, you should include it on your github account if you have one.
+However, I never included the code on my github because I didn't know how to use it. Now that I'm using it, thanks to CSE 110, here is the vibrance method the grader was referring to:
+```Java
+    public static Image vibrance(Image img, int level){
+      Color[][] imgArr = img.getPixels2D();
+      //these variables track which color component is more frequently bigger in the array of colors
+      int moreRedCount = 0;
+      int moreGreenCount = 0;
+      int moreBlueCount = 0;
+      //this nested loop increases a color's component if it's bigger than the other 2 components in every pixel
+      for (int row = 0; row < img.getHeight(); row++){
+        for (int col = 0; col < img.getWidth(); col++){
+          Color currPixel = imgArr[row][col];
+          int red = currPixel.getRed();
+          int green = currPixel.getGreen();
+          int blue = currPixel.getBlue();
+          if (red > green && red > blue){
+            red += level;
+            moreRedCount += 1;
+          }
+          else if (green > blue && green > red){
+            green += level;
+            moreGreenCount += 1;
+          }
+          else if (blue > red && blue > green){
+            blue += level;
+            moreBlueCount += 1;
+          }
+          //these if statements ensure that a color component doesn't go out of bound
+          if (red > 255){
+            red = 255;
+          }
+          if (green > 255){
+            green = 255;
+          }
+          if (blue > 255){
+            blue = 255;
+          }
+          if (red < 0){
+            red = 0;
+          }
+          if (green < 0){
+            green = 0;
+          }
+          if (blue < 0){
+            blue = 0;
+          }
+          imgArr[row][col] = new Color (red, green, blue);
+        }
+      }
+      //this nested loop deals with pixels that have equal amount of color in every component
+      //it increases the number of the most frequently bigger color component in white/gray/black pixels
+      for (int row = 0; row < img.getHeight(); row++){
+        for (int col = 0; col < img.getWidth(); col++){
+          Color currPixel = imgArr[row][col];
+          int red = currPixel.getRed();
+          int green = currPixel.getGreen();
+          int blue = currPixel.getBlue();
+          if (red == green && red == blue){
+            if (moreRedCount > moreGreenCount && moreRedCount > moreBlueCount){
+              red += level;
+            }
+            else if (moreGreenCount > moreRedCount && moreGreenCount > moreBlueCount){
+              green += level;
+            }
+            else if (moreBlueCount > moreRedCount && moreBlueCount > moreGreenCount){
+              blue += level;
+            }
+          }
+          //these if statements ensure that a color component doesn't go out of bound
+          if (red > 255){
+            red = 255;
+          }
+          if (green > 255){
+            green = 255;
+          }
+          if (blue > 255){
+            blue = 255;
+          }
+          if (red < 0){
+            red = 0;
+          }
+          if (green < 0){
+            green = 0;
+          }
+          if (blue < 0){
+            blue = 0;
+          }
+          imgArr[row][col] = new Color (red, green, blue);
+        }
+      }
+      Image newImg = new Image(imgArr);
+      return newImg;
+    }
+```
+Additionally, this is a link to my entire submission, and this is a link the programming assignment's writeup.
 
-> quote
+In case you haven't had enough of my fantastic solution to the programming assignment, check out this collage I made with the filters I created.
 
-[active link](google.com)
 
-[active link](google.com "link title")
 
-* uo list
-* also uo list
-  * nested uo list
-  * also nested uo list
-
-1. o list
-2. also o list
-
-`code`
 
 ![image](https://openthread.google.cn/images/ot-contrib-google.png)
 
@@ -48,10 +134,9 @@ I have a great passion for teaching. I was an elementary school tutor when I was
 | -------------- | ------------ |
 | one            | two          |
 
-```java
-    System.out.println("print statement");
-```
 
+
+My career goals:
 * [x] task 1
 * [ ] task 2
 
