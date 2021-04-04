@@ -5,15 +5,14 @@
 
 Hello! My name is Nada. I'm a class of 2023 student at UCSD majoring in computer science and minoring in design and business. I'm currently also a computer science tutor in the computer science department, a middle school mentor with an organization called [CovEd](coved.org"CovEd website"), and a publicity, social media, and monthly newsletter intern at the [Diversity, Equity, and Inclusion community](https://cse.ucsd.edu/diversity_equity_inclusion"DEI community website") in the UCSD computer science department.
 
-*italic*
-_also italic_
+
 **About my educational background:**
 * Graduated high school in 2019 from Riada American School in Alexandria, Egypt
 * Currently a B.S. student at the University of California, San Diego planning to graduate in 2023
   * Major: Computer Science
   * Minors:
-      1. Design (with a focus on interaction design)
-      1. Business
+    1. Design (with a focus on interaction design)
+    2. Business
 
 
 __About my tutoring:__
@@ -25,10 +24,7 @@ I have a great passion for teaching. I was an elementary school tutor when I was
 * Problem Solving
 * Speaking Arabic, English, and some French
 
-**strong**
-__also strong__
 
-~~strikethrough~~
 
 > quote
 
