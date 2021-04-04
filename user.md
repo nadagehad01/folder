@@ -27,6 +27,7 @@ I have a great passion for teaching. I was an elementary school tutor when I was
 
 A staff member who graded a programming assignment of mine in my first programming class (CSE 8A) commented
 > If you explain more on how you achieve vibrance I would have given you the star point :) I think you did something really cool here, you should include it on your github account if you have one.
+
 However, I never included the code on my github because I didn't know how to use it. Now that I'm using it, thanks to CSE 110, here is the vibrance method the grader was referring to:
 ```Java
     public static Image vibrance(Image img, int level){
