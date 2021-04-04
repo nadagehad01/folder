@@ -11,8 +11,8 @@ Hello! My name is Nada. I'm a class of 2023 student at UCSD majoring in computer
 * Currently a B.S. student at the University of California, San Diego planning to graduate in 2023
   * Major: Computer Science
   * Minors:
-    1. Design (with a focus on interaction design)
-    2. Business
+    * Design (with a focus on interaction design)
+    * Business
 
 
 __About my tutoring:__
