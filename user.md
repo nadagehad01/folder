@@ -122,14 +122,11 @@ However, I never included the code on my github because I didn't know how to use
       return newImg;
     }
 ```
-Additionally, this is a link to my entire submission, and this is a link the programming assignment's writeup.
+Additionally, [this]( "submission") is a link to my entire submission, and [this](https://www.google.com/url?q=https://drive.google.com/open?id%3D1oP2t_aYbAYIl2k-xlZwsUkywcfBjFfg9nJETNeFUV1o&sa=D&source=editors&ust=1617553838112000&usg=AFQjCNE9IXNU88hMVBn8f-tf8OGvTp8jLQ "writeup") is a link the programming assignment's writeup.
 
 In case you haven't had enough of my fantastic solution to the programming assignment, check out this collage I made with the filters I created.
 
-
-
-
-![image](https://openthread.google.cn/images/ot-contrib-google.png)
+![image](https://drive.google.com/file/d/13ru3yTK-gI_PG5LLnkadXwpDBzX7uxkf/view?usp=sharing)
 
 | table col      | table row    |
 | -------------- | ------------ |
