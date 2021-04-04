@@ -1,11 +1,10 @@
 # Nada Galal
-### Click [here](https://drive.google.com/file/d/1tbphR8kmyYPuSg8CLP7bACFbI2jLU9XA/view?usp=sharing "Nada's resume") for my resume.
-#### ngalal@ucsd.edu
+#### Click [here](https://drive.google.com/file/d/1tbphR8kmyYPuSg8CLP7bACFbI2jLU9XA/view?usp=sharing "Nada's resume") for my resume.
 
-Hello! My name is Nada. I'm a class of 2023 student at UCSD majoring in computer science and minoring in design and business. I'm currently also a computer science tutor in the computer science department, a middle school mentor with an organization called [CovEd](coved.org "CovEd website"), and a publicity, social media, and monthly newsletter intern at the [Diversity, Equity, and Inclusion community](https://cse.ucsd.edu/diversity_equity_inclusion "DEI community website") in the UCSD computer science department.
+Hello! My name is Nada (she/her). I'm a class of 2023 student at UCSD majoring in computer science and minoring in design and business. I'm currently also a computer science tutor in the computer science department, a middle school mentor with an organization called [CovEd](coved.org "CovEd website"), and a publicity, social media, and monthly newsletter intern at the [Diversity, Equity, and Inclusion community](https://cse.ucsd.edu/diversity_equity_inclusion "DEI community website") in the UCSD computer science department.
 
 
-##### About my educational background
+#### About my educational background
 * Graduated high school in 2019 from Riada American School in Alexandria, Egypt
 * Currently a B.S. student at the University of California, San Diego planning to graduate in 2023
   * Major: Computer Science
@@ -14,16 +13,16 @@ Hello! My name is Nada. I'm a class of 2023 student at UCSD majoring in computer
     * Business
 
 
-##### About my tutoring
+#### About my tutoring
 I have a great passion for teaching. I was an elementary school tutor when I was in high school, I mentored students in underserved areas in Egypt and helped design their curriculums, and I became a computer science tutor for the first time in January of 2021. I tutored for CSE 8B (Introduction to Programming 2: Java) with _Professor Christine Alvarado_, and I'm currently tutoring for CSE 30 (Computer Systems and Organization) with _Professor Bryan Chin_. In March of 2021, I joined an organization called CovEd as a volunteer mentor to mentor for students in Chicago Heights Middle School.
 
-##### Some of my skills
+#### Some of my skills
 1. Programming in `Java`, `C`, `C++`, `Python`
 2. Design
 3. Problem Solving
 4. Speaking Arabic, English, and some French
 
-##### Other
+#### Other
 __My career goals:__
 * [ ] succeed in the industry in a job that allows me to blend and make use of my design skills and my problem solving skills
 * [x] always be teaching on the side
