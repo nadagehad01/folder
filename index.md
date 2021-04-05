@@ -23,9 +23,9 @@ I have a great passion for teaching. I was an elementary school tutor when I was
 
 #### Other
 __My career goals:__
-* [ ] succeed in the industry in a job that allows me to blend and make use of my design skills and my problem solving skills
-* [x] always be teaching on the side
-* [ ] contribute to the making of an animation movie (ideally a Disney movie)
+- [ ]  succeed in the industry in a job that allows me to blend and make use of my design skills and my problem solving skills
+- [x]  always be teaching on the side
+- [ ]  contribute to the making of an animation movie (ideally a Disney movie)
 
 **Some fun:**
 A staff member who graded a programming assignment of mine in my first programming class (CSE 8A) commented on my submission
